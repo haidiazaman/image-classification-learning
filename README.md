@@ -3,6 +3,10 @@ This repo consolidates my learning of pytorch via different image classification
 
 Practice makes perfect! Let's get it! 
 
-example of ants bees images
+image examples of ants bees 
 
 ![alt text](https://github.com/haidiazaman/image-classification-learning/blob/main/ants_bees_classification/imgs/example%20images%20of%20ants%20bees.png)
+
+image examples of cats dogs 
+
+![alt text](https://github.com/haidiazaman/image-classification-learning/blob/main/cats_vs_dogs_kaggle/imgs/example%20images%20of%20cats%20dogs.png)
