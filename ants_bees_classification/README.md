@@ -19,3 +19,9 @@ Full Workflow
 example of ants bees images
 
 ![alt text](https://github.com/haidiazaman/image-classification-learning/blob/main/ants_bees_classification/imgs/example%20images%20of%20ants%20bees.png)
+
+last training steps
+![alt text](https://github.com/haidiazaman/image-classification-learning/blob/main/ants_bees_classification/imgs/training%20steps.png)
+
+plots of loss and acc
+![alt text](https://github.com/haidiazaman/image-classification-learning/blob/main/ants_bees_classification/imgs/training%20and%20val%20loss%20and%20acc.png)
