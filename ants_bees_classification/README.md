@@ -17,4 +17,5 @@ Full Workflow
 11. make predictions on test, only need outputs=forward pass and predictions
 
 example of ants bees images
+
 ![alt text](https://github.com/haidiazaman/image-classification-learning/blob/main/ants_bees_classification/imgs/example%20images%20of%20ants%20bees.png)
