@@ -10,3 +10,6 @@ image examples of ants bees
 image examples of cats dogs 
 
 ![alt text](https://github.com/haidiazaman/image-classification-learning/blob/main/cats_vs_dogs_kaggle/imgs/example%20images%20of%20cats%20dogs.png)
+
+image examples of fashion products (multi class classification)
+![alt text](https://github.com/haidiazaman/image-classification-learning/blob/main/multi_class_fashion_products/imgs/image_examples.jpg)
